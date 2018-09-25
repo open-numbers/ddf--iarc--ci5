@@ -1,0 +1,14 @@
+{
+    "name": "ddf--iarc--ci5",
+    "author": "Gapminder",
+    "description": "Cancer Incidence in Five Continents",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "ddf--iarc--ci5",
+    "version": "0.0.1",
+    "resources": []
+}
